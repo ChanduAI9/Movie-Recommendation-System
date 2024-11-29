@@ -148,11 +148,6 @@ Feel free to fork this repository and contribute improvements or new features. S
 
 ---
 
-#### **License**
-This project is open-source and available under the **MIT License**.
-
----
-
 #### **Acknowledgments**
 - Built using the **R programming language**.
 - Powered by the **Shiny framework**.
